@@ -1,1 +1,2 @@
-echo "Dit is een voorbeeld vna DecOps"
+echo "Dit is een voorbeeld van DevOps"
+echo "extra"
